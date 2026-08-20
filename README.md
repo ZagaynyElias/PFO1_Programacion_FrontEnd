@@ -1,5 +1,4 @@
 # PFO1_Programacion_FrontEnd
-PFO1
 El PFO1 de Programación FrontEnd pide, por un lado, la creación de un perfil propio en GitHub (en caso de no tenerlo ya) y de un repositorio público para que todos puedan ver nuestro trabajo. Además pide la creación de una landing para presentarnos y mostrar nuestra habilidades, dándonos libertad creativa en la estructura y diseño de la misma (utilizando HTML y CSS). Por último, pide que la publiquemos en Versel, para poder compartirla.
 
 URL de Versel para poder ver mi landing: 
