@@ -11,4 +11,4 @@ Opté por una distribución bien separada, que se entienda cuando termina una se
 
 Visualmente opté por colores oscuros, principalmente pq me gustan más y también pq cansan o saturan menos la vista. Puse títulos grandes que sean bien visibles, para separar correctamente cada sección. Y generé contraste entre el fondo y el texto para que sea más legible y agradable a la vista.
 
-Utilicé ChatGPT pq es la IA que más suelo usar y por lo tanto con la que más cómodo me siento y más experiencia tengo. Me sirvió mucho para profundizar en CSS ya que, como mencioné anteriormente, tenía muy poco experiencia con este. Le pedí que además de generarme el código, me lo explique paso a paso, así pude luego cambiar algunas cosas a mi gusto. Todo esto utilizando el plan gratuito.
+Utilicé ChatGPT porque es la IA que más suelo usar y por lo tanto con la que más cómodo me siento y más experiencia tengo. Me sirvió mucho para profundizar en CSS ya que, como mencioné anteriormente, tenía muy poco experiencia con este. Le pedí que además de generarme el código, me lo explique paso a paso, así pude luego cambiar algunas cosas a mi gusto. Todo esto utilizando el plan gratuito.
