@@ -1,7 +1,7 @@
 # PFO1_Programacion_FrontEnd
 El PFO1 de Programación FrontEnd pide, por un lado, la creación de un perfil propio en GitHub (en caso de no tenerlo ya) y de un repositorio público para que todos puedan ver nuestro trabajo. Además pide la creación de una landing para presentarnos y mostrar nuestra habilidades, dándonos libertad creativa en la estructura y diseño de la misma (utilizando HTML y CSS). Por último, pide que la publiquemos en Versel, para poder compartirla.
 
-URL de Versel para poder ver mi landing: 
+URL de Versel para poder ver mi landing: https://pfo-1-programacion-front-end.vercel.app/
 
 Pasando a la explicación del desarrollo de la página web, en cuanto al HTML le pedí a ChatGPT que me armase un cuerpo base para la misma, básicamente para no tener que codear todo desde cero, ya que el tiempo que tenía era bastante limitado. Le pase los apartados en los que quería que la divida y como quería que distribuya la información en cada uno. Luego, a partir de lo que me dio, fui completando con mi información personal y realizando cambios para acomodarlo más a mi gusto (márgenes, tamaños, posiciones, agregando o sacando elementos, etc.).
 
