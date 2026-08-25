@@ -41,6 +41,10 @@
                 </li>
 
                 <li>
+                    <a href="#formulario">Mensaje</a>
+                </li>
+                
+                <li>
                     <a href="#contacto">Contacto</a>
                 </li>
             </ul>
@@ -60,11 +64,11 @@
                 </h1>
 
                 <p>
-                    Soy un docente de matemática que se inició en el mundo
-                    de la programación hace apenas unos años. Tengo una
-                    experiencia bastante limitada en el ámbito y no manejo
-                    muchas herramientas, pero me gusta aprender y siempre
-                    estoy en busca de nuevos saberes.
+                    Soy un docente de matemática que se inició en el mundo de
+                     la programación hace apenas unos años. Actualmente me 
+                     encuentro formándome en desarrollo de software y ampliando mis 
+                     conocimientos en diferentes herramientas y lenguajes de programación. 
+                     Me interesa seguir aprendiendo y adquirir experiencia en nuevos proyectos.
                 </p>
 
                 <a href="#contacto" class="btn">
@@ -231,6 +235,62 @@
                     </p>
                 </div>
             </div>
+        </section>
+
+        <!-- Formulario de contacto -->
+        <section id="formulario" class="section">
+            <h2>
+                Enviame un mensaje
+            </h2>
+
+            <form class="contact-form">
+
+                <div class="form-group">
+                    <label for="nombre">
+                        Nombre
+                    </label>
+
+                    <input
+                        type="text"
+                        id="nombre"
+                        name="nombre"
+                        placeholder="Escribí tu nombre"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="email">
+                        Email
+                    </label>
+
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        placeholder="Escribí tu email"
+                        required
+                    >
+                </div>
+
+                <div class="form-group">
+                    <label for="mensaje">
+                        Mensaje
+                    </label>
+
+                    <textarea
+                        id="mensaje"
+                        name="mensaje"
+                        rows="6"
+                        placeholder="Escribí tu mensaje..."
+                        required
+                    ></textarea>
+                </div>
+
+                <button type="button" class="form-button">
+                    Enviar mensaje
+                </button>
+            </form>
         </section>
 
         <!-- Contacto -->
